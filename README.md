@@ -42,4 +42,6 @@ I'm a passionate **[Arch Linux use (BTW ;)]** with experience in **[Arch Linux R
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
+[![LabRoboticst's GitHub stats](https://github-readme-stats.vercel.app/api?username=LabRoboticst)](https://github.com/LabRoboticst/github-readme-stats)
+
 
