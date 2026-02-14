@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Arch Linux use (BTW ;)]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Arch Linux use (BTW ;)]** with experience in **[Arch Linux Ricing, Data structures, and Webscraping]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[How to make a website the proper way through HTML,CSS, and JavaScript]**
 - 🔭 Working on: **[Making all of the GitHub ReadMes proffesional and seemlis]**
