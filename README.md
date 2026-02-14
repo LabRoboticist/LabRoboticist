@@ -42,5 +42,5 @@ I'm a passionate **[Arch Linux use (BTW ;)]** with experience in **[Arch Linux R
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
-[![LJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LabRoboticist)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![LJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LabRoboticist)](https://github.com/anuraghazra/github-readme-stats) DOES NOT FUCKING WORK! -->
 
