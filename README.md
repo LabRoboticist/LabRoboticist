@@ -17,7 +17,7 @@ I'm a passionate \[Arch Linux use (BTW ;)\] with experience in \[Arch Linux Rici
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LabRoboticist&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LabRoboticist&layout=compact&hide_border=true&cache_seconds=86400" />
 
 ### Socials
 
