@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Arch Linux Ricer
 ----------------
 
-I'm a passionate \[Arch Linux use (BTW ;)\] with experience in \[Arch Linux Ricing, Data structures, and Webscraping\]. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate \[Arch Linux user (BTW ;)\] with experience in \[Arch Linux Ricing, Data structures, and Webscraping\]. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 * You can contact me at [drgn5514@gmail.com](mailto:drgn5514@gmail.com)
 * I'm currently learning Python, Bash, HTML, CSS, Javascript
