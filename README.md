@@ -34,4 +34,4 @@ I'm a passionate \[Arch Linux user (BTW ;)\] with experience in \[Arch Linux Ric
    - [Mental Outlaw](https://www.youtube.com/MentalOutlaw) - I use him to stay uptodate on Privacy and Security issues affecting people. He has also helped me understand deeper topics like Tor.
 
 # My Pokemon Team:
-[![Zorua](https://img.pokemondb.net/sprites/black-white/shiny/zorua.png)](https://pokemondb.net/pokedex/zorua)
+[![Zorua](https://img.pokemondb.net/sprites/black-white/anim/shiny/zorua.gif)](https://pokemondb.net/pokedex/zorua)
