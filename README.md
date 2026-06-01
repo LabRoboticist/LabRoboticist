@@ -6,7 +6,7 @@ Arch Linux Ricer
 
 I'm a passionate \[Arch Linux user (BTW ;)\] with experience in \[Arch Linux Ricing, Data structures, and Webscraping\]. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-* You can contact me at [drgn5514@gmail.com](mailto:drgn5514@gmail.com)
+* You can contact me at [Vp-LRLinux@proton.me](mailto:Vp-LRLinux@proton.me)
 * I'm currently learning Python, Bash, HTML, CSS, Javascript
 * I'm looking to collaborate on Club projects
 * Ask me about DIgimon x Pokemon :)
