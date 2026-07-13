@@ -30,9 +30,5 @@ I'm a passionate \[Arch Linux user (BTW ;)\] with experience in Arch Linux Ricin
 
 <a href="http://www.github.com/LabRoboticist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LabRoboticist&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Reasources I would reccommend for learning about Computer Science:
-# Youtube:
-   - [Mental Outlaw](https://www.youtube.com/MentalOutlaw) - I use him to stay uptodate on Privacy and Security issues affecting people. He has also helped me understand deeper topics like Tor.
-
 # My Pokemon Team: Source = https://pokemondb.net/ :)
 [![Zorua](https://img.pokemondb.net/sprites/black-white/anim/shiny/zorua.gif)](https://pokemondb.net/pokedex/zorua) [![Gible](https://img.pokemondb.net/sprites/black-white/anim/normal/gible.gif)](https://pokemondb.net/pokedex/gible) [![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif)](https://pokemondb.net/pokedex/lucario) [![Leafeon](https://img.pokemondb.net/sprites/black-white/anim/normal/leafeon.gif)](https://pokemondb.net/pokedex/leafeon) [![Golurk](https://img.pokemondb.net/sprites/black-white/anim/shiny/golurk.gif)](https://pokemondb.net/pokedex/golurk) [![Emolga](https://img.pokemondb.net/sprites/black-white/anim/normal/emolga.gif)](https://pokemondb.net/pokedex/emolga)
