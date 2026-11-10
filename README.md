@@ -1,5 +1,5 @@
 # 😈 About Me: 
-I am a Arch Linux user (BTW), who is currently taking a gap year to fully develop my skills. My main two goals are to thouroughly develop my coding skills through platforms such as [LeetCode Profile](https://leetcode.com/u/Lazy_Codermon/) 
+I am 18 year old Arch Linux user (BTW), who is currently taking a gap year to fully develop his skills. My main two goals are to thoroughly develop my coding skills through platforms such as [LeetCode Profile](https://leetcode.com/u/Lazy_Codermon/) 
 
 # Training Arc:
 * I'm currently Learning Assembly to further develop my low leveling coding skills and to develop my reverse engineering skills.<br>
