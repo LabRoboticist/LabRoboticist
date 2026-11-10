@@ -3,7 +3,6 @@ I am 18 year old Arch Linux user (BTW), who is currently taking a gap year to fu
 
 # Training Arc:
 * I'm currently Learning Assembly to further develop my low leveling coding skills and to develop my reverse engineering skills.<br>
-* 󰣇
 
 > ## *My Pokemon Team:* 
 [![Zorua](https://img.pokemondb.net/sprites/black-white/anim/shiny/zorua.gif)](https://pokemondb.net/pokedex/zorua) [![Gible](https://img.pokemondb.net/sprites/black-white/anim/normal/gible.gif)](https://pokemondb.net/pokedex/gible) [![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif)](https://pokemondb.net/pokedex/lucario) [![Leafeon](https://img.pokemondb.net/sprites/black-white/anim/normal/leafeon.gif)](https://pokemondb.net/pokedex/leafeon) [![Golurk](https://img.pokemondb.net/sprites/black-white/anim/shiny/golurk.gif)](https://pokemondb.net/pokedex/golurk) [![Emolga](https://img.pokemondb.net/sprites/black-white/anim/normal/emolga.gif)](https://pokemondb.net/pokedex/emolga)
